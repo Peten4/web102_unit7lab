@@ -50,7 +50,11 @@ const App = () => {
   return ( 
 
     <div className="App">
-
+      <div className="introduce">
+          <p>Peten Nhan</p>
+          <p>Z23363663</p>
+          <p>pnhan2015@fau.edu</p>
+      </div>
       <div className="header">
         <h1>👍 Bet 1.0</h1>
         <Link to="/"><button className="headerBtn"> Explore Challenges 🔍  </button></Link>
